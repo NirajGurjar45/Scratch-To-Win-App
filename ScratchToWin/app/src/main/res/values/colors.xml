@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TODO change this with light color-->
+    <color name="colorPrimary">#c36ff8</color>
+    <!--TODO change this with Dark color-->
+    <color name="colorPrimaryDark">#6d4ac0</color>
+
+
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="gray">#EDEDED</color>
+    <color name="start_color">@color/colorPrimaryDark</color>
+    <color name="end_color">@color/colorPrimary</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#fff</color>
+    <color name="light_gray">#F7E8E8E8</color>
+</resources>

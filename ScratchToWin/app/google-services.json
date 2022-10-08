@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536084003839",
+    "project_id": "ngscratch-5c6e0",
+    "storage_bucket": "ngscratch-5c6e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536084003839:android:5d3d50189251d8668685ca",
+        "android_client_info": {
+          "package_name": "com.NGApps.NGScratch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536084003839-u1l45jb6669e48jvd9jppp6go2qel07q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvBbIdxE957uYIGR9U9RvuaigssBVOCKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536084003839-u1l45jb6669e48jvd9jppp6go2qel07q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
